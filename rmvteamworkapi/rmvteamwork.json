@@ -1,15 +1,15 @@
 {
   "swagger": "2.0",
   "info": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "RMV Homes Teamwork API",
-    "description": "Enter description about your API here",
+    "description": "an api reference documentation for a robust integration between Teamwork Projects APIs (Versions 1, 2 and 3) and other software solutions RMV Homes uses.",
     "contact": {
-      "name": "Your name"
+      "name": "RMV Homes Admin"
     }
   },
-  "host": "localhost:3000",
-  "basePath": "/api",
+  "host": "rmvprojects.teamwork.com",
+  "basePath": "/login",
   "schemes": [
     "http"
   ],
