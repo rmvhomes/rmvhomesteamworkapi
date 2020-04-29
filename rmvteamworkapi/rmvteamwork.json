@@ -4746,7 +4746,7 @@
                 }
             }
         },
-        "/people/{{user_id}}/": {
+        "/people/{{user_id}}.json": {
             "get": {
                 "tags": [
                     "People-Status"
